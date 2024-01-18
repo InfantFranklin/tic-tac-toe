@@ -1,10 +1,10 @@
-import Board from "./Board";
+import Game from "./Board";
 import "./style.css"
 
 export default function App() {
   return (
     <div className="App">
-      <Board/>
+      <Game/>
     </div>
   );
 }
